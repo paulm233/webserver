@@ -1,0 +1,17 @@
+@charset "UTF-8";
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light p .navbar-brand {
+	color: #955A02;
+	font-family: brush-script-std;
+	font-style: normal;
+	font-weight: 400;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+}
+.container-fluid #footer {
+	clear: both;
+}
+.container-fluid .row .col-lg-12 {
+}
+#left .col-lg-12 .text-center {
+	float: undefined;
+}
